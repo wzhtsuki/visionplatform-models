@@ -1,0 +1,693 @@
+{
+  "release_tag": "v1",
+  "entries": [
+    {
+      "filename": "bria-rmbg-1.4.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.3/bria-rmbg-1.4.onnx"
+    },
+    {
+      "filename": "bria-rmbg-2.0-quant.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/bria-rmbg-2.0-quant.onnx"
+    },
+    {
+      "filename": "bria-rmbg-2.0.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/bria-rmbg-2.0.onnx"
+    },
+    {
+      "filename": "clrnet_tusimple_r18.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/clrnet_tusimple_r18.onnx"
+    },
+    {
+      "filename": "damoyolo_tinynasL20_T_420.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.3.0/damoyolo_tinynasL20_T_420.onnx"
+    },
+    {
+      "filename": "damoyolo_tinynasL25_S_460.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.3.0/damoyolo_tinynasL25_S_460.onnx"
+    },
+    {
+      "filename": "damoyolo_tinynasL35_M_492.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.3.0/damoyolo_tinynasL35_M_492.onnx"
+    },
+    {
+      "filename": "damoyolo_tinynasL45_L_508.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.3.0/damoyolo_tinynasL45_L_508.onnx"
+    },
+    {
+      "filename": "deimv2_dinov3_m_coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/deimv2_dinov3_m_coco.onnx"
+    },
+    {
+      "filename": "deimv2_dinov3_s_coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/deimv2_dinov3_s_coco.onnx"
+    },
+    {
+      "filename": "deimv2_hgnetv2_n_coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/deimv2_hgnetv2_n_coco.onnx"
+    },
+    {
+      "filename": "depth_anything_v2_vitb.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.0/depth_anything_v2_vitb.onnx"
+    },
+    {
+      "filename": "depth_anything_v2_vitl.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.0/depth_anything_v2_vitl.onnx"
+    },
+    {
+      "filename": "depth_anything_v2_vits.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.0/depth_anything_v2_vits.onnx"
+    },
+    {
+      "filename": "depth_anything_vitb14.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.1/depth_anything_vitb14.onnx"
+    },
+    {
+      "filename": "depth_anything_vitl14.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.1/depth_anything_vitl14.onnx"
+    },
+    {
+      "filename": "depth_anything_vits14.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.1/depth_anything_vits14.onnx"
+    },
+    {
+      "filename": "dfine_l_obj2coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/dfine_l_obj2coco.onnx"
+    },
+    {
+      "filename": "dfine_m_obj2coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/dfine_m_obj2coco.onnx"
+    },
+    {
+      "filename": "dfine_s_obj2coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/dfine_s_obj2coco.onnx"
+    },
+    {
+      "filename": "dfine_x_obj2coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/dfine_x_obj2coco.onnx"
+    },
+    {
+      "filename": "doclayout_yolo_docstructbench_imgsz1024.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/doclayout_yolo_docstructbench_imgsz1024.onnx"
+    },
+    {
+      "filename": "edge_sam_decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.2.0/edge_sam_decoder.onnx"
+    },
+    {
+      "filename": "edge_sam_encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.2.0/edge_sam_encoder.onnx"
+    },
+    {
+      "filename": "efficientvit_sam_l0_vit_h.decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.4/efficientvit_sam_l0_vit_h.decoder.onnx"
+    },
+    {
+      "filename": "efficientvit_sam_l0_vit_h.encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.4/efficientvit_sam_l0_vit_h.encoder.onnx"
+    },
+    {
+      "filename": "efficientvit_sam_l1_vit_h.decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.4/efficientvit_sam_l1_vit_h.decoder.onnx"
+    },
+    {
+      "filename": "efficientvit_sam_l1_vit_h.encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.4/efficientvit_sam_l1_vit_h.encoder.onnx"
+    },
+    {
+      "filename": "GeCo_decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/GeCo_decoder.onnx"
+    },
+    {
+      "filename": "GeCo_encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/GeCo_encoder.onnx"
+    },
+    {
+      "filename": "gelan-c.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.2/gelan-c.onnx"
+    },
+    {
+      "filename": "gelan-e.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.2/gelan-e.onnx"
+    },
+    {
+      "filename": "Gold_l_pre_dist.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.3.0/Gold_l_pre_dist.onnx"
+    },
+    {
+      "filename": "Gold_m_pre_dist.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.3.0/Gold_m_pre_dist.onnx"
+    },
+    {
+      "filename": "Gold_n_dist.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.3.0/Gold_n_dist.onnx"
+    },
+    {
+      "filename": "Gold_s_pre_dist.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.3.0/Gold_s_pre_dist.onnx"
+    },
+    {
+      "filename": "groundingdino_fuse_attention.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.0.0/groundingdino_fuse_attention.onnx"
+    },
+    {
+      "filename": "groundingdino_swinb_cogcoor_quant.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v1.0.0/groundingdino_swinb_cogcoor_quant.onnx"
+    },
+    {
+      "filename": "groundingdino_swint_ogc_quant.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v1.0.0/groundingdino_swint_ogc_quant.onnx"
+    },
+    {
+      "filename": "hyper-yolos-seg.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.1/hyper-yolos-seg.onnx"
+    },
+    {
+      "filename": "hyper-yolos.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.1/hyper-yolos.onnx"
+    },
+    {
+      "filename": "internimage_l_22kto1k_384.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.1.0/internimage_l_22kto1k_384.onnx"
+    },
+    {
+      "filename": "mobile_sam.encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/mobile_sam.encoder.onnx"
+    },
+    {
+      "filename": "open_vision_fsc147.pth",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/open_vision_fsc147.pth"
+    },
+    {
+      "filename": "pulc_person_attribute.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.0.0/pulc_person_attribute.onnx"
+    },
+    {
+      "filename": "pulc_vehicle_attribute.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.0.0/pulc_vehicle_attribute.onnx"
+    },
+    {
+      "filename": "ram_plus_swin_large_14m.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.0/ram_plus_swin_large_14m.onnx"
+    },
+    {
+      "filename": "ram_swin_large_14m.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v1.0.0/ram_swin_large_14m.onnx"
+    },
+    {
+      "filename": "rf-detr-base-coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/rf-detr-base-coco.onnx"
+    },
+    {
+      "filename": "rf-detr-base.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/rf-detr-base.onnx"
+    },
+    {
+      "filename": "rf-detr-large.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/rf-detr-large.onnx"
+    },
+    {
+      "filename": "rf-detr-medium.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/rf-detr-medium.onnx"
+    },
+    {
+      "filename": "rf-detr-nano.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/rf-detr-nano.onnx"
+    },
+    {
+      "filename": "rf-detr-seg-preview.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/rf-detr-seg-preview.onnx"
+    },
+    {
+      "filename": "rf-detr-small.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/rf-detr-small.onnx"
+    },
+    {
+      "filename": "rtdetr_l.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/rtdetr_l.onnx"
+    },
+    {
+      "filename": "rtdetr_r50vd_6x_coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/rtdetr_r50vd_6x_coco.onnx"
+    },
+    {
+      "filename": "rtdetr_x.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/rtdetr_x.onnx"
+    },
+    {
+      "filename": "rtdetrv2_r101vd_6x_coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.0/rtdetrv2_r101vd_6x_coco.onnx"
+    },
+    {
+      "filename": "rtdetrv2_r18vd_120e_coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.0/rtdetrv2_r18vd_120e_coco.onnx"
+    },
+    {
+      "filename": "rtdetrv2_r34vd_120e_coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.0/rtdetrv2_r34vd_120e_coco.onnx"
+    },
+    {
+      "filename": "rtdetrv2_r50vd_6x_coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.0/rtdetrv2_r50vd_6x_coco.onnx"
+    },
+    {
+      "filename": "rtdetrv2_r50vd_m_7x_coco.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.0/rtdetrv2_r50vd_m_7x_coco.onnx"
+    },
+    {
+      "filename": "sam-med2d_b.decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/sam-med2d_b.decoder.onnx"
+    },
+    {
+      "filename": "sam-med2d_b.encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/sam-med2d_b.encoder.onnx"
+    },
+    {
+      "filename": "sam2.1_hiera_base_plus.decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/sam2.1_hiera_base_plus.decoder.onnx"
+    },
+    {
+      "filename": "sam2.1_hiera_base_plus.encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/sam2.1_hiera_base_plus.encoder.onnx"
+    },
+    {
+      "filename": "sam2.1_hiera_large.decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/sam2.1_hiera_large.decoder.onnx"
+    },
+    {
+      "filename": "sam2.1_hiera_large.encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/sam2.1_hiera_large.encoder.onnx"
+    },
+    {
+      "filename": "sam2.1_hiera_small.decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/sam2.1_hiera_small.decoder.onnx"
+    },
+    {
+      "filename": "sam2.1_hiera_small.encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/sam2.1_hiera_small.encoder.onnx"
+    },
+    {
+      "filename": "sam2.1_hiera_tiny.decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/sam2.1_hiera_tiny.decoder.onnx"
+    },
+    {
+      "filename": "sam2.1_hiera_tiny.encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/sam2.1_hiera_tiny.encoder.onnx"
+    },
+    {
+      "filename": "sam2_hiera_base_plus.pt",
+      "source_url": "https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_base_plus.pt"
+    },
+    {
+      "filename": "sam2_hiera_large.pt",
+      "source_url": "https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_large.pt"
+    },
+    {
+      "filename": "sam2_hiera_small.pt",
+      "source_url": "https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_small.pt"
+    },
+    {
+      "filename": "sam2_hiera_tiny.pt",
+      "source_url": "https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_tiny.pt"
+    },
+    {
+      "filename": "sam_hq_vit_b_decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.0.0/sam_hq_vit_b_decoder.onnx"
+    },
+    {
+      "filename": "sam_hq_vit_b_encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.0.0/sam_hq_vit_b_encoder.onnx"
+    },
+    {
+      "filename": "sam_hq_vit_h_decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.0.0/sam_hq_vit_h_decoder.onnx"
+    },
+    {
+      "filename": "sam_hq_vit_h_encoder_quant.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.0.0/sam_hq_vit_h_encoder_quant.onnx"
+    },
+    {
+      "filename": "sam_hq_vit_l_decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.0.0/sam_hq_vit_l_decoder.onnx"
+    },
+    {
+      "filename": "sam_hq_vit_l_encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.0.0/sam_hq_vit_l_encoder.onnx"
+    },
+    {
+      "filename": "sam_hq_vit_l_encoder_quant.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.0.0/sam_hq_vit_l_encoder_quant.onnx"
+    },
+    {
+      "filename": "sam_vit_b_01ec64.decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/sam_vit_b_01ec64.decoder.onnx"
+    },
+    {
+      "filename": "sam_vit_b_01ec64.decoder.quant.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/sam_vit_b_01ec64.decoder.quant.onnx"
+    },
+    {
+      "filename": "sam_vit_b_01ec64.encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/sam_vit_b_01ec64.encoder.onnx"
+    },
+    {
+      "filename": "sam_vit_b_01ec64.encoder.quant.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/sam_vit_b_01ec64.encoder.quant.onnx"
+    },
+    {
+      "filename": "sam_vit_h_4b8939.decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/sam_vit_h_4b8939.decoder.onnx"
+    },
+    {
+      "filename": "sam_vit_h_4b8939.decoder.quant.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/sam_vit_h_4b8939.decoder.quant.onnx"
+    },
+    {
+      "filename": "sam_vit_h_4b8939.encoder.quant.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/sam_vit_h_4b8939.encoder.quant.onnx"
+    },
+    {
+      "filename": "sam_vit_l_0b3195.decoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/sam_vit_l_0b3195.decoder.onnx"
+    },
+    {
+      "filename": "sam_vit_l_0b3195.decoder.quant.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/sam_vit_l_0b3195.decoder.quant.onnx"
+    },
+    {
+      "filename": "sam_vit_l_0b3195.encoder.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/sam_vit_l_0b3195.encoder.onnx"
+    },
+    {
+      "filename": "sam_vit_l_0b3195.encoder.quant.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/sam_vit_l_0b3195.encoder.quant.onnx"
+    },
+    {
+      "filename": "upn_large.pth",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/upn_large.pth"
+    },
+    {
+      "filename": "yolo11s-cls.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.4/yolo11s-cls.onnx"
+    },
+    {
+      "filename": "yolo11s-obb.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.4/yolo11s-obb.onnx"
+    },
+    {
+      "filename": "yolo11s-pose.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.4/yolo11s-pose.onnx"
+    },
+    {
+      "filename": "yolo11s-seg.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.4/yolo11s-seg.onnx"
+    },
+    {
+      "filename": "yolo11s.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.4/yolo11s.onnx"
+    },
+    {
+      "filename": "yolo11s_obb_car_bus.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.4/yolo11s_obb_car_bus.onnx"
+    },
+    {
+      "filename": "yolo12l.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yolo12l.onnx"
+    },
+    {
+      "filename": "yolo12m.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yolo12m.onnx"
+    },
+    {
+      "filename": "yolo12n.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yolo12n.onnx"
+    },
+    {
+      "filename": "yolo12s.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yolo12s.onnx"
+    },
+    {
+      "filename": "yolo12x.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yolo12x.onnx"
+    },
+    {
+      "filename": "yolo26s-obb.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yolo26s-obb.onnx"
+    },
+    {
+      "filename": "yolo26s-pose.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yolo26s-pose.onnx"
+    },
+    {
+      "filename": "yolo26s-seg.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yolo26s-seg.onnx"
+    },
+    {
+      "filename": "yolo26s.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yolo26s.onnx"
+    },
+    {
+      "filename": "yolo_nas_l.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolo_nas_l.onnx"
+    },
+    {
+      "filename": "yolo_nas_m.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolo_nas_m.onnx"
+    },
+    {
+      "filename": "yolo_nas_s.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolo_nas_s.onnx"
+    },
+    {
+      "filename": "yoloe-11s-seg.pt",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yoloe-11s-seg.pt"
+    },
+    {
+      "filename": "yoloe-v8l-seg.pt",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yoloe-v8l-seg.pt"
+    },
+    {
+      "filename": "yolov10b.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.6/yolov10b.onnx"
+    },
+    {
+      "filename": "yolov10l.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.6/yolov10l.onnx"
+    },
+    {
+      "filename": "yolov10m.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.6/yolov10m.onnx"
+    },
+    {
+      "filename": "yolov10n.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.6/yolov10n.onnx"
+    },
+    {
+      "filename": "yolov10s.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.6/yolov10s.onnx"
+    },
+    {
+      "filename": "yolov10x.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.6/yolov10x.onnx"
+    },
+    {
+      "filename": "yolov5l.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov5l.onnx"
+    },
+    {
+      "filename": "yolov5m.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov5m.onnx"
+    },
+    {
+      "filename": "yolov5m_obb_csl_dotav15.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v1.0.0/yolov5m_obb_csl_dotav15.onnx"
+    },
+    {
+      "filename": "yolov5m_obb_csl_dotav20.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v1.0.0/yolov5m_obb_csl_dotav20.onnx"
+    },
+    {
+      "filename": "yolov5n.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov5n.onnx"
+    },
+    {
+      "filename": "yolov5n_obb_drone_vehicle.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v1.0.0/yolov5n_obb_drone_vehicle.onnx"
+    },
+    {
+      "filename": "yolov5s-cls.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.2.0/yolov5s-cls.onnx"
+    },
+    {
+      "filename": "yolov5s-seg.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v1.0.0/yolov5s-seg.onnx"
+    },
+    {
+      "filename": "yolov5s.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov5s.onnx"
+    },
+    {
+      "filename": "yolov5s_obb_csl_dotav10.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v1.0.0/yolov5s_obb_csl_dotav10.onnx"
+    },
+    {
+      "filename": "yolov5x.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov5x.onnx"
+    },
+    {
+      "filename": "yolov6l_mbla.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov6l_mbla.onnx"
+    },
+    {
+      "filename": "yolov6lite_l_face.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov6lite_l_face.onnx"
+    },
+    {
+      "filename": "yolov6lite_m_face.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov6lite_m_face.onnx"
+    },
+    {
+      "filename": "yolov6lite_s_face.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov6lite_s_face.onnx"
+    },
+    {
+      "filename": "yolov6m_mbla.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov6m_mbla.onnx"
+    },
+    {
+      "filename": "yolov6s.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov6s.onnx"
+    },
+    {
+      "filename": "yolov6s6.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov6s6.onnx"
+    },
+    {
+      "filename": "yolov6s_mbla.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov6s_mbla.onnx"
+    },
+    {
+      "filename": "yolov6x_mbla.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov6x_mbla.onnx"
+    },
+    {
+      "filename": "yolov7.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov7.onnx"
+    },
+    {
+      "filename": "yolov8l-oiv7.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.7/yolov8l-oiv7.onnx"
+    },
+    {
+      "filename": "yolov8l-seg.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov8l-seg.onnx"
+    },
+    {
+      "filename": "yolov8l-worldv2-cc3m.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.7/yolov8l-worldv2-cc3m.onnx"
+    },
+    {
+      "filename": "yolov8l-worldv2.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.7/yolov8l-worldv2.onnx"
+    },
+    {
+      "filename": "yolov8l.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov8l.onnx"
+    },
+    {
+      "filename": "yolov8m-oiv7.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.7/yolov8m-oiv7.onnx"
+    },
+    {
+      "filename": "yolov8m-seg.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov8m-seg.onnx"
+    },
+    {
+      "filename": "yolov8m-worldv2.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.7/yolov8m-worldv2.onnx"
+    },
+    {
+      "filename": "yolov8m.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov8m.onnx"
+    },
+    {
+      "filename": "yolov8n-oiv7.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.7/yolov8n-oiv7.onnx"
+    },
+    {
+      "filename": "yolov8n-pose.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v1.0.0/yolov8n-pose.onnx"
+    },
+    {
+      "filename": "yolov8n-seg.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov8n-seg.onnx"
+    },
+    {
+      "filename": "yolov8n.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov8n.onnx"
+    },
+    {
+      "filename": "yolov8n_obb_car_bus.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.0/yolov8n_obb_car_bus.onnx"
+    },
+    {
+      "filename": "yolov8s-cls.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.2.0/yolov8s-cls.onnx"
+    },
+    {
+      "filename": "yolov8s-obb.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.0/yolov8s-obb.onnx"
+    },
+    {
+      "filename": "yolov8s-oiv7.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.7/yolov8s-oiv7.onnx"
+    },
+    {
+      "filename": "yolov8s-seg.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov8s-seg.onnx"
+    },
+    {
+      "filename": "yolov8s-worldv2.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.7/yolov8s-worldv2.onnx"
+    },
+    {
+      "filename": "yolov8s.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov8s.onnx"
+    },
+    {
+      "filename": "yolov8x-oiv7.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.7/yolov8x-oiv7.onnx"
+    },
+    {
+      "filename": "yolov8x-pose-p6.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v1.0.0/yolov8x-pose-p6.onnx"
+    },
+    {
+      "filename": "yolov8x-seg.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov8x-seg.onnx"
+    },
+    {
+      "filename": "yolov8x-worldv2.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.7/yolov8x-worldv2.onnx"
+    },
+    {
+      "filename": "yolov8x.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolov8x.onnx"
+    },
+    {
+      "filename": "yolov8x6-oiv7.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.7/yolov8x6-oiv7.onnx"
+    },
+    {
+      "filename": "yolov9c.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.2/yolov9c.onnx"
+    },
+    {
+      "filename": "yolov9e.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.2/yolov9e.onnx"
+    },
+    {
+      "filename": "yolox_s.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolox_s.onnx"
+    }
+  ]
+}
