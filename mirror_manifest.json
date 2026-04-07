@@ -406,10 +406,6 @@
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.4/yolo11s.onnx"
     },
     {
-      "filename": "yolo11s_obb_car_bus.onnx",
-      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.4/yolo11s_obb_car_bus.onnx"
-    },
-    {
       "filename": "yolo12l.onnx",
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yolo12l.onnx"
     },
