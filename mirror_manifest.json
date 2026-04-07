@@ -14,6 +14,18 @@
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/bria-rmbg-2.0.onnx"
     },
     {
+      "filename": "ch_PP-OCRv4_det_infer.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.2/ch_PP-OCRv4_det_infer.onnx"
+    },
+    {
+      "filename": "ch_PP-OCRv4_rec_infer.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.2/ch_PP-OCRv4_rec_infer.onnx"
+    },
+    {
+      "filename": "ch_ppocr_mobile_v2.0_cls_infer.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.2/ch_ppocr_mobile_v2.0_cls_infer.onnx"
+    },
+    {
       "filename": "clrnet_tusimple_r18.onnx",
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/clrnet_tusimple_r18.onnx"
     },
@@ -88,6 +100,10 @@
     {
       "filename": "doclayout_yolo_docstructbench_imgsz1024.onnx",
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/doclayout_yolo_docstructbench_imgsz1024.onnx"
+    },
+    {
+      "filename": "dw-ll_ucoco_384.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/dw-ll_ucoco_384.onnx"
     },
     {
       "filename": "edge_sam_decoder.onnx",
@@ -170,12 +186,28 @@
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.1.0/internimage_l_22kto1k_384.onnx"
     },
     {
+      "filename": "japan_PP-OCRv3_rec_infer.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.0/japan_PP-OCRv3_rec_infer.onnx"
+    },
+    {
       "filename": "mobile_sam.encoder.onnx",
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/mobile_sam.encoder.onnx"
     },
     {
+      "filename": "mobileclip_blt.pt",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/mobileclip_blt.pt"
+    },
+    {
       "filename": "open_vision_fsc147.pth",
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/open_vision_fsc147.pth"
+    },
+    {
+      "filename": "ppocrv5_mobile_det_infer.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/ppocrv5_mobile_det_infer.onnx"
+    },
+    {
+      "filename": "ppocrv5_mobile_rec_infer.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/ppocrv5_mobile_rec_infer.onnx"
     },
     {
       "filename": "pulc_person_attribute.onnx",
@@ -192,6 +224,10 @@
     {
       "filename": "ram_swin_large_14m.onnx",
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v1.0.0/ram_swin_large_14m.onnx"
+    },
+    {
+      "filename": "resnet50.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/resnet50.onnx"
     },
     {
       "filename": "rf-detr-base-coco.onnx",
@@ -252,6 +288,14 @@
     {
       "filename": "rtdetrv2_r50vd_m_7x_coco.onnx",
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.0/rtdetrv2_r50vd_m_7x_coco.onnx"
+    },
+    {
+      "filename": "rtmdet_m_640-8xb32_coco-person.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.0/rtmdet_m_640-8xb32_coco-person.onnx"
+    },
+    {
+      "filename": "rtmo_m.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.0/rtmo_m.onnx"
     },
     {
       "filename": "sam-med2d_b.decoder.onnx",
@@ -386,6 +430,22 @@
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.5.0/upn_large.pth"
     },
     {
+      "filename": "vit-b-16.img.fp16.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.1/vit-b-16.img.fp16.onnx"
+    },
+    {
+      "filename": "vit-b-16.img.fp16.onnx.extra_file",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.1/vit-b-16.img.fp16.onnx.extra_file"
+    },
+    {
+      "filename": "vit-b-16.txt.fp16.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.1/vit-b-16.txt.fp16.onnx"
+    },
+    {
+      "filename": "vit-b-16.txt.fp16.onnx.extra_file",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.1/vit-b-16.txt.fp16.onnx.extra_file"
+    },
+    {
       "filename": "yolo11s-cls.onnx",
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.4.4/yolo11s-cls.onnx"
     },
@@ -454,8 +514,16 @@
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.1.0/yolo_nas_s.onnx"
     },
     {
+      "filename": "yoloe-11s-seg-pf.pt",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yoloe-11s-seg-pf.pt"
+    },
+    {
       "filename": "yoloe-11s-seg.pt",
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yoloe-11s-seg.pt"
+    },
+    {
+      "filename": "yoloe-v8l-seg-pf.pt",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v3.0.0/yoloe-v8l-seg-pf.pt"
     },
     {
       "filename": "yoloe-v8l-seg.pt",
@@ -680,6 +748,10 @@
     {
       "filename": "yolov9e.onnx",
       "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v2.3.2/yolov9e.onnx"
+    },
+    {
+      "filename": "yolox_l.onnx",
+      "source_url": "https://github.com/CVHub520/X-AnyLabeling/releases/download/v0.2.0/yolox_l.onnx"
     },
     {
       "filename": "yolox_s.onnx",

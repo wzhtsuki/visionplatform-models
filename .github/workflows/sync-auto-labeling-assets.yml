@@ -1,6 +1,13 @@
 name: Sync auto-labeling assets
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - mirror_manifest.json
+      - .github/workflows/sync-auto-labeling-assets.yml
+      - scripts/sync_release_assets.py
   workflow_dispatch:
     inputs:
       chunk_size:
